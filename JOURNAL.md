@@ -1,7 +1,7 @@
 ---
 title: "Brushless Balance Bot"
 author: "Ramon de Leon"
-description: ""
+description: "A PID-controlled balancing robot with high grip wheels powered by brushless motors, controlled with a PS5 controller"
 created_at: "2024-05-23"
 ---
 
